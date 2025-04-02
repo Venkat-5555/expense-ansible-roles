@@ -1,1 +1,3 @@
 BACKEND_HOST: backend.expense.thevenkat.xyz
+app_location: /usr/share/nginx/html
+component: frontend
