@@ -1,4 +1,4 @@
 mysql_root_password: ExpenseApp@1
-login_host: mysql.kubevprofile.thevenkat.xyz
+login_host: mysql.expense.thevenkat.xyz
 app_location: /app
 component: backend
